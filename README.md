@@ -13,6 +13,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
